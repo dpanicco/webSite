@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="TestSHA/jar/VeriHASH.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/TestSHA/TestSHA.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=TestSHA/src&lt;it.enel.util.main{ComputeHash.java[ComputeHash" manifestLocation="/TestSHA/META-INF/MANIFEST.MF" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/TestSHA/images/Stop26.png"/>
+        <javaElement handleIdentifier="=TestSHA/src"/>
+        <file path="/TestSHA/.classpath"/>
+        <file path="/TestSHA/.project"/>
+        <folder path="/TestSHA/META-INF"/>
+    </selectedElements>
+</jardesc>
