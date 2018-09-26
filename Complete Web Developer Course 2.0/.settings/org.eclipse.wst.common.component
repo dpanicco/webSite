@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Complete Web Developer Course 2.0">
+        <wb-resource deploy-path="/" source-path="/WebContent"/>
+        <property name="context-root" value="Complete_Web_Developer_Course_2.0"/>
+    </wb-module>
+</project-modules>
